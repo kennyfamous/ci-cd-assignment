@@ -6,7 +6,7 @@ const PORT = 3000;
 
 app.get('/', (req, res) => {
 res.send(`
-<h1>CI/CD Assignment</h1>
+<h1>CI/CD Assignment-Deployment succesfull-Kenny-Famous</h1>
 <p>Website deployed successfully using GitHub Actions and AWS EC2.</p>
 `);
 });
